@@ -1,0 +1,186 @@
+{
+    "additions": {
+        "added_param0": "2453",
+        "added_param1": "2634",
+        "added_param2": "2587",
+        "added_param3": "2934",
+        "added_param4": "2778",
+        "added_param5": "2043",
+        "added_param6": "2661",
+        "added_param7": "2719",
+        "added_param8": "2118",
+        "added_param9": "2613",
+        "added_param10": "2815",
+        "added_param11": "2075",
+        "added_param12": "2607",
+        "added_param13": "2758",
+        "added_param14": "2427",
+        "added_param15": "2887",
+        "added_param16": "2367",
+        "added_param17": "2498",
+        "added_param18": "2892"
+    },
+    "deletions": {
+        "param1": "965",
+        "param2": "893",
+        "param5": "907",
+        "param8": "82",
+        "param9": "701",
+        "param10": "529",
+        "param21": "817",
+        "param22": "263",
+        "param26": "640",
+        "param28": "79",
+        "param31": "818",
+        "param33": "781",
+        "param35": "864",
+        "param37": "130",
+        "param38": "270",
+        "param39": "354",
+        "param48": "222",
+        "param50": "630",
+        "param52": "882",
+        "param53": "320",
+        "param56": "277",
+        "param62": "451",
+        "param63": "869",
+        "param66": "322",
+        "param69": "667",
+        "param71": "175",
+        "param74": "340",
+        "param75": "32",
+        "param87": "428",
+        "param90": "936",
+        "param91": "461",
+        "param93": "212",
+        "param94": "18",
+        "param96": "948",
+        "param98": "708"
+    },
+    "updates": {
+        "param0": {
+            "old_value": "781",
+            "new_value": "1754"
+        },
+        "param3": {
+            "old_value": "9",
+            "new_value": "1443"
+        },
+        "param4": {
+            "old_value": "326",
+            "new_value": "1735"
+        },
+        "param12": {
+            "old_value": "664",
+            "new_value": "1513"
+        },
+        "param16": {
+            "old_value": "211",
+            "new_value": "1246"
+        },
+        "param18": {
+            "old_value": "811",
+            "new_value": "1218"
+        },
+        "param19": {
+            "old_value": "368",
+            "new_value": "1890"
+        },
+        "param23": {
+            "old_value": "488",
+            "new_value": "1008"
+        },
+        "param25": {
+            "old_value": "488",
+            "new_value": "1014"
+        },
+        "param27": {
+            "old_value": "628",
+            "new_value": "1854"
+        },
+        "param29": {
+            "old_value": "397",
+            "new_value": "1638"
+        },
+        "param30": {
+            "old_value": "987",
+            "new_value": "1274"
+        },
+        "param36": {
+            "old_value": "229",
+            "new_value": "1325"
+        },
+        "param42": {
+            "old_value": "180",
+            "new_value": "1424"
+        },
+        "param44": {
+            "old_value": "967",
+            "new_value": "1668"
+        },
+        "param47": {
+            "old_value": "291",
+            "new_value": "1292"
+        },
+        "param51": {
+            "old_value": "576",
+            "new_value": "1453"
+        },
+        "param54": {
+            "old_value": "792",
+            "new_value": "1063"
+        },
+        "param55": {
+            "old_value": "916",
+            "new_value": "1315"
+        },
+        "param57": {
+            "old_value": "236",
+            "new_value": "1695"
+        },
+        "param59": {
+            "old_value": "957",
+            "new_value": "1227"
+        },
+        "param60": {
+            "old_value": "402",
+            "new_value": "1374"
+        },
+        "param61": {
+            "old_value": "523",
+            "new_value": "1468"
+        },
+        "param68": {
+            "old_value": "641",
+            "new_value": "1165"
+        },
+        "param73": {
+            "old_value": "361",
+            "new_value": "2000"
+        },
+        "param78": {
+            "old_value": "562",
+            "new_value": "1310"
+        },
+        "param84": {
+            "old_value": "410",
+            "new_value": "1118"
+        },
+        "param85": {
+            "old_value": "442",
+            "new_value": "1103"
+        },
+        "param88": {
+            "old_value": "708",
+            "new_value": "1960"
+        },
+        "param97": {
+            "old_value": "625",
+            "new_value": "1879"
+        },
+        "param99": {
+            "old_value": "945",
+            "new_value": "1214"
+        }
+    }
+}

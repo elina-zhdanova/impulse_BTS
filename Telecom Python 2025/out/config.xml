@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BTSConfig>
+    <BTS>
+        <id>0</id>
+        <name />
+            <MGMT>
+                <MetricJob>
+                    <isFinished>false</isFinished>
+                    <jobId>0</jobId>
+                </MetricJob>
+                <CPLANE />
+            </MGMT>
+            <HWE>
+                <RU><hwRevision /><id>0</id><ipv4Address /><manufacturerName /></RU>
+            </HWE><COMM />
+    </BTS>
+</BTSConfig>
